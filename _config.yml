@@ -22,7 +22,10 @@ title: Blog Blog Blog
 email: nouser@example.none
 description: >- # this means to ignore newlines until "baseurl:"
   Some thoughts
-  and musings
+  and musings,
+  and thoughts, 
+  and musings, 
+  and ... thoughts?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pak80.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pak80_no_twitter
